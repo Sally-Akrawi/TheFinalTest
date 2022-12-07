@@ -1,0 +1,13 @@
+git init
+git add MyFile.txt
+
+git add Info
+
+ git config user.name "SallyAkrawi_INFO"
+
+git add Command.txt
+
+git status
+
+from this step I learnd that I have added all the folders but I did not commit them yet
+also it shows that MyFile.txt is edited and not added yet
